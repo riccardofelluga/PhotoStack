@@ -100,3 +100,4 @@ photo-stack-back/mongoDB_server/db-notes-mongo/*
 photo-stack-back/minio_server/data/*
 photo-stack-back/redis_server/data/*
 photo-stack-back/python_server/tmp/*
+photo-stack-back/rust_server/target/*
